@@ -48,5 +48,13 @@
   background: linear-gradient(to bottom right, #493a40, #2c424d);
 }
 
+footer{
+  align-items:center;
+  display:flex;
+  justify-content:center;
+  height:150px;
+  background-color:#f2f2f2;
+  color:#333333;
+}
 
   
