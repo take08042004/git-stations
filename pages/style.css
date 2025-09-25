@@ -23,3 +23,12 @@ footer{
   color:white;
   height:200px;
 }
+
+footer{
+  align-items:center;
+  display:flex;
+  justify-content:center;
+  background-color:#33333333;
+  color:white;
+  height:200px;
+}
